@@ -4,7 +4,7 @@
 
 ### Low-Level Systems Developer • Reverse Engineering & Kernel Security Research (Ring 0)
 
-I am a systems programmer focused on OS internals, binary analysis, and low-level software engineering. I specialize in understanding software-to-hardware interaction, working with CPU instructions, system calling conventions, and machine-level memory layouts.
+I am a 14 years old systems programmer focused on OS internals, binary analysis, and low-level software engineering. I specialize in understanding software-to-hardware interaction, working with CPU instructions, system calling conventions, and machine-level memory layouts.
 
 ---
 
